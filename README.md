@@ -1,7 +1,18 @@
 # shoeN : 101
 
-## 타이틀 뜻
+## 기획
+
+최근 나이키 범고래처럼 과거에는 매니아층에서 인기가 많던 나이키슈즈가 일반인들 사이에서도 관심이 증가하고 있다.
+증가하는 관심에 따라 일반인들도 접근하기 쉬운 나이키 슈즈 소개 사이트를 만들고 싶었다.
+![image](https://user-images.githubusercontent.com/95206325/150708398-4d0da8cd-9df0-4887-9d91-f9e4863df36c.png)
+![image](https://user-images.githubusercontent.com/95206325/150708539-055374b5-600e-4807-bb5c-d4761780ec76.png)
+
+> 해당 자료는 한정판 거래 플랫폼 '크림(KREAM)'이 분석한 랭킹 리포트이다.
+> 21년 인기 1위한 나이키 범고래 상품이 성별과 상관없이 큰 인기를 끌고 있는 것을 확인할 수 있다.
+
 ![unknown](https://user-images.githubusercontent.com/95206325/150707830-6bc6370d-6359-4817-8869-3fb670f18919.png)
+> 수집 매니아 층이 아닌 일반인에게도 쉽게 다갈 수 있는 나이키 슈즈 사이트를 타이틀로 표현하였다.
+> Shoes + nike N + 101(기초를 뜻함) 
 
 ## 화면설계, 스토리보드
 ![Group 3](https://user-images.githubusercontent.com/95206325/150707576-a97d8f3f-3d71-43af-bdeb-0290c9cb03f4.png)
