@@ -4,7 +4,9 @@
 
 최근 나이키 범고래처럼 과거에는 매니아층에서 인기가 많던 나이키슈즈가 일반인들 사이에서도 관심이 증가하고 있다.
 증가하는 관심에 따라 일반인들도 접근하기 쉬운 나이키 슈즈 소개 사이트를 만들고 싶었다.
-![image](https://user-images.githubusercontent.com/95206325/150708557-5330779f-6264-4f6f-b7c5-5d5c8f055c0d.png)
+![image](https://user-images.githubusercontent.com/95206325/150709099-6c964695-6f71-4819-8028-8d1104f362e5.png)
+
+![image](https://user-images.githubusercontent.com/95206325/150709052-bb4d7f87-ecac-4b49-8bd6-0f6157149e76.png)
 
 > 해당 자료는 한정판 거래 플랫폼 '크림(KREAM)'이 분석한 랭킹 리포트이다.
 > 21년 인기 1위한 나이키 범고래 상품이 성별과 상관없이 큰 인기를 끌고 있는 것을 확인할 수 있다.
