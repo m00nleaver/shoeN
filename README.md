@@ -20,9 +20,11 @@
 > Shoes + nike N + 101(기초를 뜻함) 
 
 ## 화면설계, 스토리보드
-https://www.figma.com/file/d27kRAV6yoGXhYmSxqyles/%EC%8B%A0%EB%B0%9C-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8?node-id=3%3A5
+
 이미지가 홈페이지의 주된 요소이기 때문에 지루하지 않게 여러 효과를 넣어주는 것이 좋다고 판단하였다.
-화면 설계는 피그마를 사용하여 설계하였다.
+화면 설계는 피그마를 사용하여 설계하였다.<br>
+https://www.figma.com/file/d27kRAV6yoGXhYmSxqyles/%EC%8B%A0%EB%B0%9C-%EC%A0%95%EB%B3%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8?node-id=3%3A5
+
 <br>
 ![Group 3](https://user-images.githubusercontent.com/95206325/150707576-a97d8f3f-3d71-43af-bdeb-0290c9cb03f4.png)
 ![Group 4](https://user-images.githubusercontent.com/95206325/150707577-722737d6-670f-4470-8b81-ab47592d2754.png)
